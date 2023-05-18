@@ -1,0 +1,44 @@
+{
+    "com.github.troublor.ulauncher-numconverter": {
+        "id": "com.github.troublor.ulauncher-numconverter",
+        "url": "https://github.com/Troublor/ulauncher-numconverter",
+        "updated_at": "2023-01-02T14:33:15.835572",
+        "last_commit": "98d5e01d82671eedc98c000053980ae7ceb4ea28",
+        "last_commit_time": "2021-09-29T13:19:39"
+    },
+    "com.github.tchar.ulauncher-albert-calculate-anything": {
+        "id": "com.github.tchar.ulauncher-albert-calculate-anything",
+        "url": "https://github.com/tchar/ulauncher-albert-calculate-anything",
+        "updated_at": "2023-01-02T14:33:59.910946",
+        "last_commit": "ee0903174c8b87cd1f7c3b6c1acef10702547507",
+        "last_commit_time": "2021-08-12T06:39:56"
+    },
+    "com.github.brpaz.ulauncher-folder-search": {
+        "id": "com.github.brpaz.ulauncher-folder-search",
+        "url": "https://github.com/brpaz/ulauncher-folder-search",
+        "updated_at": "2023-01-02T14:35:25.641094",
+        "last_commit": "a1b08cf75910eaa4c70c041de0f56cf7446bf05a",
+        "last_commit_time": "2021-12-12T15:46:24"
+    },
+    "com.github.hippo-o-matic.ulauncher-qalc": {
+        "id": "com.github.hippo-o-matic.ulauncher-qalc",
+        "url": "https://github.com/hippo-o-matic/ulauncher-qalc",
+        "updated_at": "2023-01-02T14:36:38.065912",
+        "last_commit": "45882831f57c265ee3b4bf47cdb862379d47a89a",
+        "last_commit_time": "2021-03-03T03:33:36"
+    },
+    "com.github.melianmiko.ulauncher-bluetoothd": {
+        "id": "com.github.melianmiko.ulauncher-bluetoothd",
+        "url": "https://github.com/melianmiko/ulauncher-bluetoothd",
+        "updated_at": "2023-01-02T14:38:47.015124",
+        "last_commit": "9d0af9677ac2bd616ecf57deb9bb2324e82e6dbc",
+        "last_commit_time": "2022-04-02T07:50:44"
+    },
+    "com.github.frdrk.ulauncher-dead-simple-convert": {
+        "id": "com.github.frdrk.ulauncher-dead-simple-convert",
+        "url": "https://github.com/frdrk/ulauncher-dead-simple-convert",
+        "updated_at": "2023-01-02T14:49:39.583511",
+        "last_commit": "65dbe4220abef52b79d9c374ad2e9c498c399b08",
+        "last_commit_time": "2021-03-26T07:05:32"
+    }
+}
