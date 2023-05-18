@@ -11,6 +11,5 @@ dotfiles and configs of all installed programs
 8.nitrogen Wallpaper Manager\
 9.ulauncher\
 10.polybar\
-11.ranger\
-12.nvim\
-13.htop\
+11.nvim\
+12.htop
