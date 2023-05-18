@@ -1,0 +1,6 @@
+set number
+set relativenumber
+call pluh#begin()
+
+Plug 'http://github.com/tpope/vim-surround'
+Plug 'https://github.com/neoclide/coc.nvim'
